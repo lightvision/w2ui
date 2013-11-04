@@ -1,0 +1,22 @@
+{
+    "name": "lightvision/w2ui",
+    "description": "JavaScript UI library for data-driven web applications",
+    "type": "library",
+    "keywords": ["javascript", "jQuery", "w2ui"],
+    "homepage":"https://github.com/lightvision/w2ui/wiki",
+    "require": {
+        "components/jquery": ">=1.9"
+    },
+    "require-dev": {
+        "components/jquery": ">=1.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marius Ionel",
+            "email": "webmaster@grupnet.ro",
+            "role":"Packagist package mainteiner"
+        }
+    ],
+    "minimum-stability": "stable"
+}
